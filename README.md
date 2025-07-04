@@ -40,3 +40,63 @@ Secure Storage of Root Credentials: The root account credentials were securely s
 
 ￼
 
+5 - Implemented These Permissions
+Developers:
+
+
+
+
+
+EC2 management
+
+
+
+S3 access for application files
+
+
+
+CloudWatch logs viewing
+
+Operations:
+
+
+
+
+
+Full EC2, CloudWatch access
+
+
+
+Systems Manager access
+
+
+
+RDS management
+
+Finance:
+
+
+
+
+
+Cost Explorer
+
+
+
+AWS Budgets
+
+
+
+Read-only resource access
+
+Analysts:
+
+
+
+
+
+Read-only S3 access
+
+
+
+Read-only database access

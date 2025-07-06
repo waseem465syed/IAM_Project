@@ -1,8 +1,10 @@
 # 🔹 Project Summary – Cloud Security Transformation using Terraform
 
-    Spearheaded a cloud security remediation initiative at StartupCo, addressing critical risks caused by shared AWS root account usage and lack of governance.
+    Spearheaded a cloud security remediation initiative at StartupCo, 
+    addressing critical risks caused by shared AWS root account usage and lack of governance.
 
-    Conducted a rapid cloud security assessment, presented risk findings to stakeholders, and secured alignment for a phased security transformation plan.
+    Conducted a rapid cloud security assessment, presented risk findings to stakeholders, 
+    and secured alignment for a phased security transformation plan.
 
 ## Eliminated root account dependencies by:
 

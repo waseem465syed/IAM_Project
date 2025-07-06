@@ -5,6 +5,7 @@ Created IAM Users and Groups
 * Finance group & users
 * Analyst group & users
 
+![Design Architecture Diagram](images/design.webp)
 
 
 
@@ -15,7 +16,7 @@ Team Structure & Access Needs: 
 *  3 Data Analysts (need read-only access to data resources)
 
 
-
+![Team Structure](images/root-user.png)
 
 
 ￼
@@ -32,7 +33,7 @@ Set Up Security Requirements
 * Create a strong password policy
 * Ensure users can only access what they need
 
-
+![MFA Enabled](images/security.png)
 
 Implemented  Permissions
 
@@ -69,6 +70,7 @@ Analysts:
 
 
 ✅ Provisioned a new IAM user with administrative privileges to eliminate reliance on the AWS root account for daily operations
+![IAM User Account](images/iam-user.png)
 ￼
 
 Establishing Fine-Grained Access Control with IAM

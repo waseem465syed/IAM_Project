@@ -1,18 +1,17 @@
-🔹 # Project Summary – Cloud Security Transformation using Terraform
+# 🔹 Project Summary – Cloud Security Transformation using Terraform
 
     Spearheaded a cloud security remediation initiative at StartupCo, addressing critical risks caused by shared AWS root account usage and lack of governance.
 
     Conducted a rapid cloud security assessment, presented risk findings to stakeholders, and secured alignment for a phased security transformation plan.
 
-    ## Eliminated root account dependencies by:
+## Eliminated root account dependencies by:
 
         Enforcing Multi-Factor Authentication (MFA)
 
         Creating secure break-glass access procedures
 
         Provisioning a new IAM admin user for daily operations
-
-    ##Designed and implemented role-based IAM access using Terraform Infrastructure as Code (IaC):
+## Designed and implemented role-based IAM access using Terraform Infrastructure as Code (IaC):
 
         Created IAM groups and users for Developers, Operations, Finance, and Analysts
 
@@ -24,7 +23,7 @@
 
     Integrated IAM roles into CI/CD pipelines, ensuring secure automation and governance at scale.
 
-    ##Achieved:
+## Achieved:
 
         100% IAM onboarding compliance
 
